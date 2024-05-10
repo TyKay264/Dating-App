@@ -46,7 +46,7 @@ import { ButtonsModule } from 'ngx-bootstrap/buttons';
     MemberEditComponent,
     PhotoEditorComponent,
     TextInputComponent,
-    DatePickerComponent
+    DatePickerComponent,
   ],
   imports: [
     BrowserModule,
